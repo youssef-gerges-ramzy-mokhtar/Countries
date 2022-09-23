@@ -1,5 +1,5 @@
 # Countries
-A Webpage to display the flag, population, language & curency of countries \n
+A Webpage to display the flag, population, language & curency of countries **Enter**
 Has 2 main functionality the Where Am I Functionality which displays country info based on your current location, and the Search Country Functionality which displays country info based on a country a use want to search for
 
 ## Webpage Link
