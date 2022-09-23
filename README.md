@@ -1,6 +1,6 @@
 # Countries
-. A Webpage to display the flag, population, language & curency of countries
-. Has 2 main functionality the Where Am I Functionality which displays country info based on your current location, and the Search Country Functionality which displays country info based on a country a use want to search for
+# A Webpage to display the flag, population, language & curency of countries
+# Has 2 main functionality the Where Am I Functionality which displays country info based on your current location, and the Search Country Functionality which displays country info based on a country a use want to search for
 
 ## Webpage Link
 You can access this webpage through the following link: https://countries-ff749.web.app/
