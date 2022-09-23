@@ -10,6 +10,8 @@ const userInput = document.querySelector("#country-search")
 
 // whereAmI() displays useful info about the country that the user is currently in
 async function whereAmI() {
+   render_error("Loading Please Wait");
+   
    const location = await userLocation()
    if (location.error) {
       render_error("Something Went Wrong! Please Try again or reload the Page 😞")
